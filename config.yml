@@ -1,7 +1,7 @@
 baseurl: "https://pgbh2021.pages.dev"
 title: "Pangenomics Bio Hacking 2021"
 canonifyurls: true
-theme: "hugo-conference"
+theme: "pgbh-conference"
 
 GoogleAnalytics: ""
 
