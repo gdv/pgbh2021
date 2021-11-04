@@ -4,6 +4,7 @@ canonifyurls: true
 theme: "pgbh-conference"
 
 GoogleAnalytics: ""
+GoogleMapsKey: ""
 
 params:
   # Conference info
@@ -101,9 +102,9 @@ params:
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
         time: "16h00"
 
-    - name: "Yan Gao"
+    - name: "???????"
       photo: "/img/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      bio: "Probably somebody more focused on biology"
       company: "Apple, Inc."
       link:
         href: "http://github.com/stevie"
