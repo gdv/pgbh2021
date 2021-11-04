@@ -66,36 +66,31 @@ params:
   # The entire schedule
   Schedule:
     - name: "Check-in "
-      time: "9h00 - 10h00"
+      time: "Dec 09 - 9h00"
 
-    - name: "Linus Torvalds"
+    - name: "Shilpa Garg"
       photo: "/img/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Linux Foundation"
+      bio: "New computational algorithms for solving fundamental biological problems of genome assembly, haplotyping and structural variants calling"
+      company: "University of Copenhagen"
       link:
-        href: "http://twitter.com/linus"
-        text: "@linus"
+        href: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/708474"
+        text: "home page"
       presentation:
-        title: "Digging into a Linux Kernel"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "10h00"
+        title: "Title of the tutorial"
+        description: "Short abstract"
+        time: "9h30"
 
-    - name: "Bill Gates"
-      photo: "/img/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Microsoft"
-      link:
-        href: "http://github.com/billy95"
-        text: "@billy95"
-      presentation:
-        title: "Introducing Windows 12"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "11h00"
 
     - name: "Lunch"
       time: "12h00"
 
-    - name: "Chuck Norris"
+
+    - name: "Hackathon"
+      photo: "/img/speaker.jpg"
+      bio: "Hacking focus?"
+      time: "13h00"
+
+    - name: "Jouni Siren"
       photo: "/img/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Delta Command"
@@ -105,9 +100,9 @@ params:
       presentation:
         title: "How to kill a elephant with one finger"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "13h00"
+        time: "16h00"
 
-    - name: "Steve Jobs"
+    - name: "Yan Gao"
       photo: "/img/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Apple, Inc."
@@ -116,13 +111,22 @@ params:
         text: "@stevie"
       presentation:
         title: "Presenting iPad"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "14h00"
+        description: "Lorem ipsum"
+        time: "16h20"
 
-    - name: "Coffee-break"
-      time: "15h00"
+    - name: "Barış Ekim"
+      photo: "/img/speaker.jpg"
+      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      company: "Delta Command"
+      link:
+        href: "http://twitter.com/littlechuck"
+        text: "@littlechuck"
+      presentation:
+        title: "How to kill a elephant with one finger"
+        description: "Lorem ipsum"
+        time: "16h40"
 
-    - name: "Mark Zuckerberg"
+    - name: "Christian Kubica"
       photo: "/img/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Facebook"
@@ -132,16 +136,86 @@ params:
       presentation:
         title: "Revealing Facebook Secrets"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        time: "17h00"
+
+
+    - name: "End of Day 1"
+      time: "17h20"
+
+    - name: "Beginning of Day 2"
+      time: "Dec 09 - 9h00"
+
+    - name: "Yan Gao"
+      photo: "/img/speaker.jpg"
+      bio: "New computational algorithms for solving fundamental biological problems of genome assembly, haplotyping and structural variants calling"
+      company: "University of Copenhagen"
+      link:
+        href: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/708474"
+        text: "home page"
+      presentation:
+        title: "Title of the tutorial"
+        description: "Short abstract"
+        time: "9h30"
+
+
+    - name: "Lunch"
+      time: "12h00"
+
+
+    - name: "Hackathon"
+      photo: "/img/speaker.jpg"
+      bio: "Hacking focus?"
+      time: "13h00"
+
+    - name: "Jana Ebler"
+      photo: "/img/speaker.jpg"
+      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      company: "Delta Command"
+      link:
+        href: "http://twitter.com/littlechuck"
+        text: "@littlechuck"
+      presentation:
+        title: "How to kill a elephant with one finger"
+        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
         time: "16h00"
 
-    - name: "Steve Wozniak"
+    - name: "Rayan Chikhi"
       photo: "/img/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Apple, Inc."
       link:
-        href: "http://twitter.com/woz"
-        text: "@woz"
+        href: "http://github.com/stevie"
+        text: "@stevie"
       presentation:
-        title: "Why do I prefer Android over iPhone"
+        title: "Presenting iPad"
+        description: "Lorem ipsum"
+        time: "16h20"
+
+    - name: "Flavia Villani"
+      photo: "/img/speaker.jpg"
+      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      company: "Delta Command"
+      link:
+        href: "http://twitter.com/littlechuck"
+        text: "@littlechuck"
+      presentation:
+        title: "How to kill a elephant with one finger"
+        description: "Lorem ipsum"
+        time: "16h40"
+
+    - name: "Massimiliano Rossi"
+      photo: "/img/speaker.jpg"
+      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      company: "Facebook"
+      link:
+        href: "http://twitter.com/zuck"
+        text: "@zuck"
+      presentation:
+        title: "Revealing Facebook Secrets"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
         time: "17h00"
+
+
+    - name: "Discussion and Greetings"
+      time: "17h20"
+
