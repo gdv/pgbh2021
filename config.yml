@@ -12,8 +12,8 @@ params:
   Description: "Conference description"
   Date: "December 9-10, 2021"
   #  Price: "Only $100" # If your event is free, just comment this line
-  Venue: "U4 Building, Aula Sironi"
-  Address: "Piazza della Scienza"
+  Venue: "Aula Sironi"
+  Address: "U4 Building, Piazza della Scienza"
   City:  "Milano"
   State: "Italy"
   Images: ["/img/badge.jpg"]
@@ -50,9 +50,13 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "Hugo"
-      logo: "/img/hugo.png"
-      url: "http://gohugo.io"
+    - name: "PANGAIA"
+      logo: "/img/pangaia-logo-trimmed.png"
+      url: "https://pangenome.eu"
+
+    - name: "UNIMIB"
+      logo: "/img/LogoIst.jpg"
+      url: "https://www.unimib.it"
 
   # List of Partners
   Partners:
