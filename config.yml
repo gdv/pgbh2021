@@ -84,14 +84,20 @@ params:
         description: "Short abstract"
         time: "9h30"
 
+    - name: "Hackathon"
+      presentation:
+        title: "Hacking time"
+        description: "Hackathon focus"
+      time: "10h00"
 
     - name: "Lunch"
       time: "12h00"
 
 
     - name: "Hackathon"
-      photo: "/img/speaker.jpg"
-      bio: "Hacking focus?"
+      presentation:
+        title: "Hacking time"
+        description: "Hackathon focus"
       time: "13h00"
 
     - name: "Jouni Siren"
@@ -161,14 +167,20 @@ params:
         description: "Short abstract"
         time: "9h30"
 
+    - name: "Hackathon"
+      presentation:
+        title: "Hacking time"
+        description: "Hackathon focus"
+        time: "10h00"
 
     - name: "Lunch"
       time: "12h00"
 
 
     - name: "Hackathon"
-      photo: "/img/speaker.jpg"
-      bio: "Hacking focus?"
+      presentation:
+        title: "Hacking time"
+        description: "Hackathon focus"
       time: "13h00"
 
     - name: "Jana Ebler"
