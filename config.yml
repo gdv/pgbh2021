@@ -147,7 +147,7 @@ params:
       time: "17h20"
 
     - name: "Beginning of Day 2"
-      time: "Dec 09 - 9h00"
+      time: "Dec 10 - 9h00"
 
     - name: "Yan Gao"
       photo: "/img/speaker.jpg"
