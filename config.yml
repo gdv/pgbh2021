@@ -157,14 +157,13 @@ params:
 
     - name: "Yan Gao"
       photo: "/img/speaker.jpg"
-      bio: "New computational algorithms for solving fundamental biological problems of genome assembly, haplotyping and structural variants calling"
-      company: "University of Copenhagen"
+      company: "Children's Hospital of Philadelphia and Sun Yat-sen University"
       link:
-        href: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/708474"
-        text: "home page"
+        href: "https://github.com/yangao07"
+        text: "Github"
       presentation:
-        title: "Title of the tutorial"
-        description: "Short abstract"
+        title: "Fast and memory-efficient partial order alignment with abPOA"
+        description: "We present abPOA (adaptive banded Partial Order Alignment), a Single Instruction Multiple Data (SIMD)-based C library for fast and memory-efficient partial order alignment. abPOA uses a minimizer-based seeding and partition approach to split sequence and graph into small windows and separately performs partial order alignment within each window"
         time: "9h30"
 
     - name: "Hackathon"
