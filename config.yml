@@ -17,6 +17,7 @@ params:
   City:  "Milano"
   State: "Italy"
   Images: ["/img/badge.jpg"]
+  Github: "https://github.com/gdv/pgbh2021/tree/main/themes/pgbh-conference"
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
