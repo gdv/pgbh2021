@@ -225,13 +225,18 @@ params:
 
     - name: "Massimiliano Rossi"
       photo: "/img/speaker.jpg"
-      company: "University of Florida"
+      company: "Computer & Information Science & Engineering Department Herbert Wertheim
+College of Engineering, University of Florida"
       link:
-        href: "http://github.com/"
+        href: "http://maxrossi91.com"
         text: "@zuck"
       presentation:
-        title: "Title"
-        description: "Short abstract"
+        title: "MONI: Design Challenges for a Pangenomic Tool"
+        description: "MONI is a pangenomic index for finding maximal exact matches (MEMs), that is built on top of the r-index but also includes auxiliary data structures to
+allow finding approximate matches on a pangenomic scale. It includes many
+open-source tools and data structures such as BigBWT, BigRePair, and SDSL. I
+will talk about MONI, which is written in C++ and freely available at https://
+github.com/maxrossi91/moni"
         time: "17h00"
 
 
