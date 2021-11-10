@@ -45,7 +45,7 @@ params:
   # If you don't want this, just remove the callToAction property.
   CallToAction:
     text: "Register now!"
-    link: "http://register.example.com"
+    link: "https://register.example.com"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
     ForkButton:
@@ -71,7 +71,7 @@ params:
       url: "https://gianluca.dellavedova.org"
     - name: "Erik"
       logo: "/img/partner.png"
-      url: "http://www.hypervolu.me/~erik/erik_garrison.html"
+      url: "https://www.hypervolu.me/~erik/erik_garrison.html"
     - name: "Pjotr"
       logo: "/img/pjotrprins.jpg"
       url: "https://thebird.nl/"
@@ -111,7 +111,7 @@ params:
       photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
-        href: "http://github.com/"
+        href: "https://github.com/"
         text: "@littlechuck"
       presentation:
         title: "Title"
@@ -122,7 +122,7 @@ params:
       photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
-        href: "http://github.com/"
+        href: "https://github.com/"
         text: "@stevie"
       presentation:
         title: "Presenting iPad"
@@ -133,7 +133,7 @@ params:
       photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
-        href: "http://github.com/"
+        href: "https://github.com/"
         text: "@littlechuck"
       presentation:
         title: "Title"
@@ -144,7 +144,7 @@ params:
       photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
-        href: "http://github.com/"
+        href: "https://github.com/"
         text: "@zuck"
       presentation:
         title: "Title"
@@ -194,7 +194,7 @@ params:
       photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
-        href: "http://github.com/"
+        href: "https://github.com/"
         text: "@littlechuck"
       presentation:
         title: "Title"
@@ -205,7 +205,7 @@ params:
       photo: "/img/speaker.jpg"
       company: "Institut Pasteur"
       link:
-        href: "http://github.com/stevie"
+        href: "https://github.com/stevie"
         text: "@stevie"
       presentation:
         title: "Title"
@@ -216,7 +216,7 @@ params:
       photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
-        href: "http://github.com/"
+        href: "https://github.com/"
         text: "@littlechuck"
       presentation:
         title: "Title"
@@ -228,7 +228,7 @@ params:
       company: "Computer & Information Science & Engineering Department Herbert Wertheim
 College of Engineering, University of Florida"
       link:
-        href: "http://maxrossi91.com"
+        href: "https://maxrossi91.com"
         text: "@zuck"
       presentation:
         title: "MONI: Design Challenges for a Pangenomic Tool"
