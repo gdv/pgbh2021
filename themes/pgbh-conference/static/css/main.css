@@ -386,9 +386,9 @@ nav {
    ========================================================================== */
 .speakers-item {
   position: relative;
-  min-height: 180px;
-  padding-left: 180px;
-  margin-bottom: 30px;
+  
+  padding-left: 10px;
+  margin-bottom: 10px;
   border-bottom: 1px dashed #e7e7e7;
 }
 .speaker-photo {
@@ -455,6 +455,10 @@ nav {
 }
 .speakers-company {
   display: block;
+  font-size: 12px;
+}
+
+.schedule-title {
   font-size: 12px;
 }
 /* =============================================================================
