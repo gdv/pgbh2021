@@ -18,6 +18,7 @@ params:
   State: "Italy"
   Images: ["/img/badge.jpg"]
   Github: "https://github.com/gdv/pgbh2021/tree/main/themes/pgbh-conference"
+  Registration: "https://docs.google.com/forms/d/e/1FAIpQLSfAdl1X-I_ndYHo9hHmH44VqEf0jiKofI9ZDmraJShzIuMHMQ/viewform"
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
@@ -47,8 +48,8 @@ params:
     link: "http://register.example.com"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
-  #  ForkButton:
-  #    repository: "https://github.com/jweslley/hugo-conference/"
+    ForkButton:
+      repository: "https://github.com/gdv/pgbh2021"
 
   # List of Sponsors
   Sponsors:
