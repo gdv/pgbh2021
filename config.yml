@@ -63,16 +63,16 @@ params:
 
   # List of Partners
   Partners:
-    - name: "Enza Colonna"
+    - name: "Enza"
       logo: "/img/hugo.jpg"
       url: "https://colonnalab.github.io/laboratory_WebPage/"
-    - name: "Gianluca Della Vedova"
-      logo: "/img/partner.png"
+    - name: "Gianluca"
+      logo: "/img/gianluca.png"
       url: "https://gianluca.dellavedova.org"
-    - name: "Erik Garrison"
+    - name: "Erik"
       logo: "/img/partner.png"
       url: "http://www.hypervolu.me/~erik/erik_garrison.html"
-    - name: "Pjotr Prins"
+    - name: "Pjotr"
       logo: "/img/pjotrprins.jpg"
       url: "https://thebird.nl/"
   # The entire schedule
