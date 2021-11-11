@@ -75,13 +75,19 @@ params:
     - name: "Pjotr"
       logo: "/img/pjotrprins.jpg"
       url: "https://thebird.nl/"
+  
+  ############################################    
   # The entire schedule
+  ############################################    
   Schedule:
     - name: "Check-in "
       time: "Dec 09 - 9h00"
 
+  ############################################    
+  # Day 1 - December 09
+  ############################################    
+        
     - name: "Shilpa Garg"
-      photo: "/img/speaker.jpg"
       company: "University of Copenhagen"
       link:
         href: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/708474"
@@ -100,13 +106,10 @@ params:
 
 
     - name: "Hackathon"
-      presentation:
-        title: "Hacking time"
-        description: "Hackathon focus"
+      goal: "Hack Goal"
       time: "13h00"
 
     - name: "Jouni Siren"
-      photo: "/img/speaker.jpg"
       company: "UC Santa Cruz"
       link:
         href: "https://iki.fi/jouni.siren/"
@@ -121,7 +124,6 @@ sequencing projects."
         time: "16h00"
 
     - name: "???????"
-      photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
         href: "https://github.com/"
@@ -132,7 +134,6 @@ sequencing projects."
         time: "16h20"
 
     - name: "Barış Ekim"
-      photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
         href: "https://github.com/"
@@ -143,7 +144,6 @@ sequencing projects."
         time: "16h40"
 
     - name: "Christian Kubica"
-      photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
         href: "https://github.com/"
@@ -158,15 +158,15 @@ sequencing projects."
       time: "17h20"
 
 
-
-
+  ############################################    
+  # Day 2 - December 10
+  ############################################    
 
 
     - name: "Beginning of Day 2"
       time: "Dec 10 - 9h00"
 
     - name: "Yan Gao"
-      photo: "/img/speaker.jpg"
       company: "Children's Hospital of Philadelphia and Sun Yat-sen University"
       link:
         href: "https://github.com/yangao07"
@@ -177,9 +177,7 @@ sequencing projects."
         time: "9h30"
 
     - name: "Hackathon"
-      presentation:
-        title: "Hacking time"
-        description: "Hackathon focus"
+        goal: "Hack Goal"
         time: "10h00"
 
     - name: "Lunch"
@@ -187,13 +185,10 @@ sequencing projects."
 
 
     - name: "Hackathon"
-      presentation:
-        title: "Hacking time"
-        description: "Hackathon focus"
+      goal: "Hack Goal"
       time: "13h00"
 
     - name: "Jana Ebler"
-      photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
         href: "https://github.com/"
@@ -204,7 +199,6 @@ sequencing projects."
         time: "16h00"
 
     - name: "Rayan Chikhi"
-      photo: "/img/speaker.jpg"
       company: "Institut Pasteur"
       link:
         href: "https://github.com/stevie"
@@ -215,7 +209,6 @@ sequencing projects."
         time: "16h20"
 
     - name: "Flavia Villani"
-      photo: "/img/speaker.jpg"
       company: "affiliation"
       link:
         href: "https://github.com/"
@@ -226,9 +219,7 @@ sequencing projects."
         time: "16h40"
 
     - name: "Massimiliano Rossi"
-      photo: "/img/speaker.jpg"
-      company: "Computer & Information Science & Engineering Department Herbert Wertheim
-College of Engineering, University of Florida"
+      company: "University of Florida"
       link:
         href: "https://maxrossi91.com"
         text: "@zuck"
