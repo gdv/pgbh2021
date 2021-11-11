@@ -1,7 +1,6 @@
 <h2 class="section-title">{{ .titles.schedule }}</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+<p>The schedule is tentative. We will finalize the schedule shortly.</p>
 <div class="schedule-tbl">
   <table>
     <thead>
@@ -17,16 +16,27 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
           <tr>
             <td class="schedule-time">{{ .presentation.time }}</td>
             <td class="schedule-slot">
-              <span class="schedule-speaker">{{ $slot.name }}<br></span>
-              {{ .presentation.title }}
+              
+              {{ if ne .presentation.title nil }}
+                <span class="schedule-speaker">{{ $slot.name }}<br></span>
+                {{ .presentation.title }}
+              {{ else }}
+                {{ $slot.name }}
+              {{ end }}
             </td>
-            <td class="schedule-description">{{ .presentation.description }}</td>
+            <td class="schedule-description">
+                {{ .presentation.description }}
+              </td>
           </tr>
         {{ else }}
-          <tr class="schedule-other">
+          <tr>
             <td class="schedule-time">{{ .time }}</td>
             <td class="schedule-slot">{{ .name }}</td>
-            <td class="schedule-description">-</td>
+            <td class="schedule-description">
+              {{ if ne .goal nil }}
+                 {{ $slot.goal }}
+              {{ end }}
+            </td>
           </tr>
         {{ end }}
       {{ end }}

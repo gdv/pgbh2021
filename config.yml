@@ -92,9 +92,7 @@ params:
         time: "9h30"
 
     - name: "Hackathon"
-      presentation:
-        title: "Hacking time"
-        description: "Hackathon focus"
+      goal: "Hack Goal"
       time: "10h00"
 
     - name: "Lunch"
