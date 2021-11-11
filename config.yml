@@ -185,13 +185,13 @@ params:
       time: "13h00"
 
     - name: "Jana Ebler"
-      company: "affiliation"
+      company: "Heinrich Heine University Düsseldorf"
       link:
-        href: "https://github.com/"
-        text: "@littlechuck"
+        href: "https://bitbucket.org/jana_ebler/pangenie"
+        text: "website"
       presentation:
-        title: "Title"
-        description: "Short abstract"
+        title: "PanGenie - Pangenome-based inference"
+        description: "Typical analysis workflows map reads to a reference genome in order to genotype genetic variants. Generating such alignments introduces reference biases and comes with substantial computational burden. In contrast, recent k-mer based genotypers are fast, but struggle in repetitive or duplicated genomic regions. In this talk, I propose a novel algorithm, PanGenie, that leverages a haplotype-resolved pangenome reference in conjunction with k-mer counts from short-read sequencing data to genotype a wide spectrum of genetic variation - a process we refer to as genome inference. Compared to mapping-based approaches, PanGenie is more than 4x faster at 30x coverage and reaches significantly better genotype concordances for almost all variant types and coverages tested. Improvements are especially pronounced for large insertions (>=50bp) and variants in repetitive regions, enabling the inclusion of these classes of variants in genome-wide association studies. PanGenie efficiently leverages the increasing amount of haplotype-resolved assemblies to unravel the functional impact of previously inaccessible variants while being scalable to thousands of genotyped samples."
         time: "16h00"
 
     - name: "Rayan Chikhi"
