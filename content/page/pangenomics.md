@@ -1,7 +1,7 @@
 ---
 title: Why pangenomics?
-date: {{ .Date }}
-draft: true
+draft: false
+type: "page"
 ---
 
 The Human Genome Project's assembly of the first genome took 13 years and cost $2.7 billion\cite. Today, consumers can sequence their whole genomes for as little as $300.
