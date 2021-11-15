@@ -120,11 +120,11 @@ params:
         description: "Pangenomic aligners try to avoid reference bias in read mapping by including common variants in the reference. They achieve a higher mapping accuracy than traditional linear aligners, at the expense of being an order of magnitude slower. We present Giraffe, a new short read aligner that avoids this trade-off with a number of algorithmic and data model improvements. By combining the speed of linear aligners with the accuracy of pangenomic aligners, Giraffe is a viable choice for large-scale sequencing projects."
         time: "16h00"
 
-    - name: "???????"
+    - name: "TBA"
       company: "affiliation"
       link:
-          href: "https://github.com/"
-          text: "@stevie"
+          href: ""
+          text: ""
       presentation:
           title: "Presenting iPad"
           description: "Lorem ipsum"
@@ -133,8 +133,8 @@ params:
     - name: "Barış Ekim"
       company: "affiliation"
       link:
-        href: "https://github.com/"
-        text: "@littlechuck"
+        href: ""
+        text: ""
       presentation:
         title: "Title"
         description: "Short abstract"
@@ -208,8 +208,8 @@ params:
     - name: "Flavia Villani"
       company: "affiliation"
       link:
-        href: "https://github.com/"
-        text: "@littlechuck"
+        href: ""
+        text: ""
       presentation:
         title: "Title"
         description: "Short abstract"
@@ -219,7 +219,7 @@ params:
       company: "University of Florida"
       link:
         href: "https://maxrossi91.com"
-        text: "@zuck"
+        text: "home page"
       presentation:
         title: "MONI: Design Challenges for a Pangenomic Tool"
         description: "MONI is a pangenomic index for finding maximal exact matches (MEMs), that is built on top of the r-index but also includes auxiliary data structures to allow finding approximate matches on a pangenomic scale. It includes many open-source tools and data structures such as BigBWT, BigRePair, and SDSL. I will talk about MONI, which is written in C++ and freely available at https://github.com/maxrossi91/moni"
