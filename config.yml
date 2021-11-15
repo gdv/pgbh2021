@@ -140,13 +140,13 @@ params:
         time: "16h40"
 
     - name: "Christian Kubica"
-      company: "affiliation"
+      company: "Max Planck Institute for Developmental Biology, Tuebingen, Germany"
       link:
-        href: "https://github.com/"
-        text: "@zuck"
+        href: "https://github.com/MoinSebi/gSV"
+        text: "Github"
       presentation:
-        title: "Title"
-        description: "Short abstract"
+        title: "gSV - a reference free SV caller"
+        description: "While reference guided variant detection has helped us to explore a large fraction of, mostly non-complex, variation, its properties derived from pairwise comparisons have hindered true pan-genomic analysis. Until now, variant calls have always been reference biased and dependent on sequence being available in the singular reference genome. The coordinate system used has been reference based and thus the sequence context in the query sequence has been lost. Furthermore, nested variation has been hard to access from such variant calls.  By using the information stored in whole genome alignment derived genome graphs we are now able to explore variation in a true pan-genomic environment. Here we present gSV, a first solution to call complex and nested variation as it is represented in a genome graph. gSV explores the graph inherent bubble structures from a fully pan-genomic point of view, thus removing the need for a reference coordinate system. This enables us to access nested variation and assign hierarchical parent-child relationships to bubbles while preserving the sequence context of each variant in every genome."
         time: "17h00"
 
 
