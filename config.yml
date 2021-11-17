@@ -196,13 +196,21 @@ params:
         time: "16h00"
 
     - name: "Rayan Chikhi"
-      company: "Institut Pasteur"
+      company: "Institut Pasteur and CNRS"
       link:
-        href: "https://github.com/stevie"
-        text: "@stevie"
+        href: "https://rayan.chikhi.name"
+        text: "homepage"
       presentation:
-        title: "Title"
-        description: "Short abstract"
+        title: "Representing 661,405 bacterial genomes using minimizer-space de
+        Bruijn graphs"
+        description: "DNA sequencing continues to progress toward longer and
+        more accurate reads. Yet, primary analyses, such as genome assembly and
+        pangenome graph construction, remain challenging and energy-inefficient.
+        We recently introduced the concept of minimizer-space sequencing
+        analysis, expanding the alphabet of DNA sequences to atomic tokens made
+        of fixed-length words. This leads to orders-of-magnitude improvements in
+        speed and memory usage for human genome assembly and metagenome assembly
+        and enables for the first time a representation of a pangenome made of 661,405 bacterial genomes."
         time: "16h20"
 
     - name: "Flavia Villani"
