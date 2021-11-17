@@ -65,13 +65,13 @@ params:
   # List of Partners
   Partners:
     - name: "Enza"
-      logo: "/img/hugo.jpg"
+      logo: "/img/vcolonna.jpg"
       url: "https://colonnalab.github.io/laboratory_WebPage/"
     - name: "Gianluca"
       logo: "/img/gianluca.png"
       url: "https://gianluca.dellavedova.org"
     - name: "Erik"
-      logo: "/img/partner.png"
+      logo: "/img/erik_garrison_photo.jpg"
       url: "https://www.hypervolu.me/~erik/erik_garrison.html"
     - name: "Pjotr"
       logo: "/img/pjotrprins.jpg"
