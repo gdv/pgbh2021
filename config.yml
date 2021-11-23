@@ -138,14 +138,14 @@ params:
         description: "Pangenomic aligners try to avoid reference bias in read mapping by including common variants in the reference. They achieve a higher mapping accuracy than traditional linear aligners, at the expense of being an order of magnitude slower. We present Giraffe, a new short read aligner that avoids this trade-off with a number of algorithmic and data model improvements. By combining the speed of linear aligners with the accuracy of pangenomic aligners, Giraffe is a viable choice for large-scale sequencing projects."
         time: "16h00"
 
-    - name: "TBA"
-      company: "affiliation"
+    - name: "Danang Crysnanto"
+      company: "ETH Zurich"
       link:
           href: ""
           text: ""
       presentation:
-          title: "Presenting iPad"
-          description: "Lorem ipsum"
+          title: "TBA"
+          description: "short abstract"
       time: "16h20"
 
     - name: "Barış Ekim"
