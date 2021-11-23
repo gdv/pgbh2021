@@ -128,6 +128,16 @@ params:
         and enables for the first time a representation of a pangenome made of 661,405 bacterial genomes."
         time: "15h00"
 
+    - name: "Danang Crysnanto"
+      company: "ETH Zurich"
+      link:
+          href: ""
+          text: ""
+      presentation:
+          title: "TBA"
+          description: "short abstract"
+      time: "15h30"
+
     - name: "Jouni Siren"
       company: "UC Santa Cruz"
       link:
@@ -138,16 +148,6 @@ params:
         description: "Pangenomic aligners try to avoid reference bias in read mapping by including common variants in the reference. They achieve a higher mapping accuracy than traditional linear aligners, at the expense of being an order of magnitude slower. We present Giraffe, a new short read aligner that avoids this trade-off with a number of algorithmic and data model improvements. By combining the speed of linear aligners with the accuracy of pangenomic aligners, Giraffe is a viable choice for large-scale sequencing projects."
         time: "16h00"
 
-    - name: "Danang Crysnanto"
-      company: "ETH Zurich"
-      link:
-          href: ""
-          text: ""
-      presentation:
-          title: "TBA"
-          description: "short abstract"
-      time: "16h20"
-
     - name: "Barış Ekim"
       company: "affiliation"
       link:
@@ -156,7 +156,7 @@ params:
       presentation:
         title: "Title"
         description: "Short abstract"
-        time: "16h40"
+        time: "16h30"
 
     - name: "Christian Kubica"
       company: "Max Planck Institute for Developmental Biology, Tuebingen, Germany"
@@ -170,7 +170,7 @@ params:
 
 
     - name: "End of Day 1"
-      time: "17h20"
+      time: "17h30"
 
 
   ############################################    
@@ -221,7 +221,7 @@ params:
       presentation:
         title: "Title"
         description: "Short abstract"
-        time: "16h40"
+        time: "16h30"
 
     - name: "Massimiliano Rossi"
       company: "University of Florida"
@@ -235,5 +235,5 @@ params:
 
 
     - name: "Discussion and Greetings"
-      time: "17h20"
+      time: "17h30"
 
