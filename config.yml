@@ -62,6 +62,11 @@ params:
       logo: "/img/LogoIst.jpg"
       url: "https://www.unimib.it"
 
+    - name: "ALPACA"
+      logo: "/img/alpaca_logo_title.svg"
+      url: "https://alpaca-itn.eu/"
+
+
   # List of Partners
   Partners:
     - name: "Enza"
