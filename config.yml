@@ -136,7 +136,7 @@ params:
       presentation:
           title: "TBA"
           description: "short abstract"
-      time: "15h30"
+          time: "15h30"
 
     - name: "Jouni Siren"
       company: "UC Santa Cruz"
