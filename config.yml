@@ -136,11 +136,21 @@ params:
     - name: "Danang Crysnanto"
       company: "ETH Zurich"
       link:
-          href: ""
-          text: ""
+          href: "https://github.com/danangcrysnanto"
+          text: "website"
       presentation:
-          title: "TBA"
-          description: "short abstract"
+          title: "Establishing Bovine Pangenome Graphs"
+          description: "The reference genome is generated from a single or few
+          individuals and thus, it is a poor representation of the full species
+          diversity. This pitfall has led to the development of the pangenome;
+          the use of multiple genomes for genomic analysis. In this study, we
+          integrated six cattle reference-quality genome assemblies into a
+          pangenome graph, and we found 70 Mb sequences are not included in the
+          existing cattle reference genome. We further demonstrated that these
+          non-reference sequences contain functionally active bases and
+          thousands of polymorphic sites that remain undetected with a single
+          linear genome. Our findings call the need for a more representative
+          reference genome that captures the entire species diversity."
           time: "15h30"
 
     - name: "Jouni Siren"
