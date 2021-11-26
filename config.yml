@@ -219,13 +219,26 @@ params:
         time: "16h00"
 
     - name: "Flavia Villani"
-      company: "affiliation"
+      company: "University of Tennessee"
       link:
-        href: ""
-        text: ""
+        href: "https://cghs1.uthsc.edu/exist/apps/FacultyCommittees/index.html?range=U-W&tabSelected=committees&netID=fvillan1&surname=Villani&forename=Flavia"
+        text: "website"
       presentation:
-        title: "Title"
-        description: "Short abstract"
+        title: "A pangenome for the expanded BXD family of mice"
+        description: "The members of BXDs family have been inbred for 20-200
+        generations . They are of great value for mapping complex traits and
+        phenome-wide association analysis. Current genomic studies on BXD assume
+        a single linear reference genome, making it difficult to observe
+        sequences diverging from the reference, therefore limiting the accuracy
+        and completeness of analyses. We sequenced all extant members of all BXD
+        families using linked-read libraries and built the pangenome graph to
+        study genetic variation. We determined that linked reads are not ideal
+        for pangenome building, nevertheless the pangenome enhanced the calling
+        of complex variants not seen by traditional genomics methods and
+        provided calls with good precision and sensitivity. As a case study we
+        followed up a strain specific 2kb insertion that was inherited by half
+        of the recombinant mice and correlated the genotype at this locus with
+        clinically relevant phenotypes present in the GeneNetwork database."
         time: "16h30"
 
     - name: "Massimiliano Rossi"
