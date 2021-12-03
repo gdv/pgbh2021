@@ -9,11 +9,11 @@ Milano (Italy) and online
 
 Pangenomics Bio Hacking 2021 is the first world-wide conference on December 9-10 for researchers who have a focus on pangenomics free and open source software development
 
-The meeting will be a hybrid in person-virtual event, with mornings (Central
-European time zone) sessions mostly dedicated to hacking, taking place at
+The meeting will be fully online, with mornings (Central
+European time zone) sessions mostly dedicated to hacking, virtually taking place at
 University of Milano - Bicocca, Milano, Italy. 
 
-Participation is free, both in person and online, but registration is required, so that you can get the Zoom links on a timely manner.
+Participation is free, but registration is required, so that you can get the Zoom links on a timely manner.
 
 
 SPEAKERS:
