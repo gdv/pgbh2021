@@ -12,10 +12,10 @@ params:
   Description: "Conference description"
   Date: "December 9-10, 2021"
   #  Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Online"
+  # Venue: "Online"
   #Address: "U4 Building, Piazza della Scienza"
   #City:  "Milano"
-  #State: "Italy"
+  State: "Online"
   Images: ["/img/badge.jpg"]
   Github: "https://github.com/gdv/pgbh2021/tree/main/themes/pgbh-conference"
   Registration: "https://docs.google.com/forms/d/e/1FAIpQLSfAdl1X-I_ndYHo9hHmH44VqEf0jiKofI9ZDmraJShzIuMHMQ/viewform"
