@@ -99,8 +99,13 @@ params:
         href: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/708474"
         text: "home page"
       presentation:
-        title: "Title"
-        description: "Short abstract"
+        title: "Advanced high-resolution approaches: human health and        biodiversity genomics"
+        description: "Chromosome-scale haplotypes are important to study genetic
+        variation associated to diseases and biodiversity evolution.         Advancements in third-generation sequencing opened enormous
+        opportunities to reconstruct genomes at a single-base resolution. In
+        this talk, I will present sequencing methods and graph-based approaches
+        to combine the data types in an efficient manner. Further, I will
+        provide examples relevant in clinical setting. I will demonstrate these comparative genomics."
         time: "9h30"
 
     - name: "Hackathon"
