@@ -169,13 +169,23 @@ params:
         time: "16h00"
 
     - name: "Barış Ekim"
-      company: "affiliation"
+      company: "MIT"
       link:
         href: ""
         text: ""
       presentation:
-        title: "Title"
-        description: "Short abstract"
+        title: "Leveraging the structure and topology of minimizer-space de    Bruijn graphs for pangenomics applications"
+        description: "We recently introduced minimizer-space de Bruijn graphs
+        (mdBGs) as an efficient variant of the de Bruijn graph to represent
+        collections of genomes. In this talk, we focus on structural properties
+        of minimizer-space de Bruijn graphs, how they differ from
+        nucleotide-level de Bruijn graphs, and how we can exploit these
+        differences to infer insight about genomic variation using a mdBG
+        pangenome graph. We show that we can both infer a “genomic backbone”
+        shared by multiple strains in the mdBG, and also query a reference mdBG
+        for an accurate mapping of nodes to an input set of reads using both
+        sequence and topological similarity. We conclude by giving examples of
+        future directions for mdBGs in pangenomics applications."
         time: "16h30"
 
     - name: "Christian Kubica"
