@@ -1,15 +1,21 @@
 <h2 class="section-title">{{ .titles.location }}</h2>
 
 <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-  <span itemprop="streetAddress">{{ .address }}. </span>
-  <span itemprop="addressLocality">{{ .city }}</span>,
+  <span itemprop="streetAddress">{{ .address }}</span>
+  <span itemprop="addressLocality">{{ .city }}</span>
   <span itemprop="addressRegion"> {{ .state }}</span>
 </p>
 
-<div id="map-canvas" class="location-area" data-address="{{ .address }}, {{ .city }} - {{ .state }}">
-<a href="https://www.openstreetmap.org/way/318383404">
-<img alt="U4 Map" src="/img/map-u4-scaled.png"
-height="300">
-</div>
+<h3 class="section-title">Videos</h3>
+<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+  Day 1: <a href="https://www.youtube.com/watch?v=oAC0dnBW5rc">YouTube
+    Stream</a>
+  Day 2: <a href="https://www.youtube.com/watch?v=OA_Zq8WnF9Y">YouTube
+    Stream</a>
+</p>
 
-<p><a href="https://en.unimib.it/reach-us/how-reach-us">How to reach us</a></p>
+<h3 class="section-title">Chats</h3>
+<p itemprop="address">
+  <a href="https://matrix.to/#/!MGEpHvxXJkhiwJGUdf:matrix.org?via=matrix.org">general</a></p>
+  <p itemprop="address">
+    <a href="https://matrix.to/#/!XRVSHuAtRhzrHXxWwX:matrix.org?via=matrix.org">question to speakers</a></p>
